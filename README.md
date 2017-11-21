@@ -1,3 +1,5 @@
+**This repository has been archived.**
+
 # concrete-corrosion #
 
 Implementation of a multi-scale ODE/PDE model of concrete corrosion as described in the lecture notes A.
